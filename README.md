@@ -1,16 +1,15 @@
-### Hi there 👋
+# 김초원의 포트폴리오
 
-<!--
-**kimfield98/kimfield98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience
+|일시|제목|내용|
+|---|---|---|
+|24.02 - ing|서울 스파르타빌더스|백오피스 개발 (프론트엔드)
+|22.01 - 2022.12(1년)|세종 아람약국|고객 응대 / 직원 교육 자료 제작 / 전산 재고 관리 및 약품 발주 업무|
+|21.07 - 2021.12 (6개월)|대전 MBC|썸네일 제작, 영상 컷편집 및 자막 작업|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+|일시|제목|내용|
+|---|---|---|
+|2023.08 - 2023.12 (5개월)|SW사관학교 정글 7기 수료|C, 알고리즘, 자료구조, OS|
+|2023.01 - 2023.06 (6개월)|[KDT] Python 개발자 과정 수료|Git, HTML5, CSS3, Javascript(ES6), Python, Django, SQL|
+|2019.04 - 2019.07 (3개월)|웹 디자인 포트폴리오 과정 수강|포토샵, 일러스트, WEB 기초|
