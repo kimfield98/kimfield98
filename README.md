@@ -37,5 +37,5 @@ Patch → Minor → Major 구조를 기반으로
 ### 🔗 Links
 
 - Notion: [https://chologbook.notion.site](https://wise-tumbleweed-aa3.notion.site/33d672f9fc07802d9040cadcf37c9d44?source=copy_link)
-- GitHub Repo: [https://github.com/kimfield98](https://github.com/kimfield98/kimfield98/edit/main/README.md)
+- GitHub Repo: [https://github.com/kimfield98/chologbook]([https://github.com/kimfield98/kimfield98/edit/main/README.md](https://github.com/kimfield98/chologbook))
 - Service: [https://www.chologbook.com/](https://www.chologbook.com/)
